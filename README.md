@@ -42,12 +42,22 @@ Local development environments for Python:
 ### 🧩 Student Version
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/AI/blob/main/Week-1/ai-pr-week-1-student.ipynb)
 - [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-1/ai-pr-week-1-student.ipynb)
+
+### ✅ Solution Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-1/ai-pr-week-1-solution.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-FFB300?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-1/ai-pr-week-1-solution.ipynb)
+
 ---
 ## 📆 Week 2:
 
 ### 🧩 Student Version
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/AI/blob/main/Week-2/ai-pr-week-2-student.ipynb)
 - [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-2/ai-pr-week-2-student.ipynb)
+
+### ✅ Solution Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-2/ai-pr-week-2-solution.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-FFB300?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-2/ai-pr-week-2-solution.ipynb)
+
 ---
 
 ## 📆 Week 3:
@@ -55,4 +65,15 @@ Local development environments for Python:
 ### 🧩 Student Version
 - [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/AI/blob/main/Week-3/ai-pr-week-3-student.ipynb)
 - [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-3/ai-pr-week-3-student.ipynb)
+
+---
+
+## 📆 Week 4:
+
+### 🧩 Student Version
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/AI/blob/main/Week-4/Practical_NeuralNets.pdf)
+- [![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AISIC-Lab/AI/blob/main/Week-4/ai-pr-week-4-student.ipynb)
+- [![Open In Colab](https://img.shields.io/badge/Open_in_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/AISIC-Lab/AI/blob/main/Week-4/ai-pr-week-4-student.ipynb)
+- [`Simulator`](https://www.jmeiners.com/neural-nets-sim/)
+
 ---
